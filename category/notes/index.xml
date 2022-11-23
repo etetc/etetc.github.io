@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on ETETC</title>
+    <link>https://etetc.github.io/category/notes/</link>
+    <description>Recent content in Notes on ETETC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://etetc.github.io/category/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ETETC记录一</title>
+      <link>https://etetc.github.io/2022/05/03/etetc%E8%AE%B0%E5%BD%95%E4%B8%80/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://etetc.github.io/2022/05/03/etetc%E8%AE%B0%E5%BD%95%E4%B8%80/</guid>
+      <description>This is a simple note.</description>
+    </item>
+    
+    <item>
+      <title>测试 ETETC</title>
+      <link>https://etetc.github.io/2022/05/03/%E6%B5%8B%E8%AF%95-etetc/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://etetc.github.io/2022/05/03/%E6%B5%8B%E8%AF%95-etetc/</guid>
+      <description>站点测试.</description>
+    </item>
+    
+    <item>
+      <title>Den Theme Preview</title>
+      <link>https://etetc.github.io/2022/05/01/den-theme-preview/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://etetc.github.io/2022/05/01/den-theme-preview/</guid>
+      <description>&lt;p&gt;This is a simple preview for styles in Den.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>a simple note</title>
+      <link>https://etetc.github.io/2022/03/03/a-simple-note/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://etetc.github.io/2022/03/03/a-simple-note/</guid>
+      <description>This is a simple note.</description>
+    </item>
+    
+  </channel>
+</rss>
